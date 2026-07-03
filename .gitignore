@@ -1,0 +1,13 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+
+# Windows
+Thumbs.db
+desktop.ini
