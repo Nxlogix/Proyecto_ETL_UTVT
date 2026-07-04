@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofia\\OneDrive\\Escritorio\\Proyecto_ETL_UTVT\\ssis\\Proyecto_ETL_UTVT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E1737C-FD2E-C5D3-EE19-659C8FF23B47}|Proyecto_ETL_UTVT\\Proyecto_ETL_UTVT.dtproj|C:\\Users\\sofia\\OneDrive\\Escritorio\\Proyecto_ETL_UTVT\\ssis\\Proyecto_ETL_UTVT\\Proyecto_ETL_UTVT\\CargaVentas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{D2E1737C-FD2E-C5D3-EE19-659C8FF23B47}|Proyecto_ETL_UTVT\\Proyecto_ETL_UTVT.dtproj|solutionrelative:Proyecto_ETL_UTVT\\CargaVentas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargaVentas.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sofia\\OneDrive\\Escritorio\\Proyecto_ETL_UTVT\\ssis\\Proyecto_ETL_UTVT\\Proyecto_ETL_UTVT\\CargaVentas.dtsx",
+              "RelativeDocumentMoniker": "Proyecto_ETL_UTVT\\CargaVentas.dtsx",
+              "ToolTip": "C:\\Users\\sofia\\OneDrive\\Escritorio\\Proyecto_ETL_UTVT\\ssis\\Proyecto_ETL_UTVT\\Proyecto_ETL_UTVT\\CargaVentas.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_ETL_UTVT\\CargaVentas.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOgSURBVDhPhZXLbxtVFMa/49f41SR2asdpavJQ26CoIWpT1FZABUiIIiTYwAIh1K76B8CSBRu2sGBZVqzYwAYpqJEq9QFSVbWoqJVoHs7Ddlw/UifjmbFn7rwOCydjOzHkk67mHM3RN2d\u002B98wdAoCvv/3hzszsubdxhCzbgdrUsVUqf3f31q8/P7y38NfBGjBzYD\u002BeGDvOk9k0iIiYmQkAAz15ra7g/uMlWs8XPh0eOxV66/1PQn8s/vKgx5SI/ABw5d0Prp\u002BbOzs5dTKNeDRMsYiEeCzSvnbllm1jeaNMESk0QL7AkGlzNJk8XlPkumoK3dz39XlPYGYvPiIfHUnBRzij6fbHr56/8lk0PpjuLu2YUlv74f/lv9\u002B\u002BT0\u002BePSfdMF75Z2nlq5auZzuWgMcUzFyqt7DwqOYxzCTD\u002BOjiKP32sMyVHQMt3UBpN0BnZ\u002Bf4NTaxuyvj8ZOn1G2Ig50apov1Sgs5NYhVPUYlEQYAlHcEcjJR0RmEmZzE5YvnMT87TcnEUJdVR32ZclCCK0WYg1Lntj/AiBxDcDCF6dPjGE0nepl3qS/TQGObgttFCjRqe0xB/pZCwZdFCmwXYBkm2S4R0K4/qB6mmYSEG1fHPaZSyA8A9OHrIyxMB7YLWC5RPC5xpcp7k4xDxj2dRkJ\u002BTGVi7TUapxPJNtMTyTDGR\u002BI0loohPRyDxX5Yro/I5\u002B\u002By6qiHqW46WK8026us8YsdAwDgMCBs5qYFqIKhCMBwfXy0KRFVdgXdvJXHj4sFurlYoIVHVQIAyyFq2kSaCWqYgGKBhIP/ZNrTKe9NgD2YYiuVZTGQZt0CVJO5IZhlAZYNQBFgw3TYdcy\u002BE9DTqRdaAj6hEwsBzQIUASgCJAtANoAXZRnbsk2ONIKJmUu48N4X17IXPv8Gw5ev4eDuh0M\u002BTGWisF0Lrmtxwh\u002BGarYZNkywssezWpURBnF2fAqZk5PQjTeu05\u002BbKCq376H\u002B4KeOKRGNDUdx4\u002BoEdAuktV8bmgmoFkg1Ac0CdAdgEM2fTuDNmSSqOzo2Sgo9fRbyrDzT52tbvLpZBhGR4zI7ABwHcEFkOcw2A44LOEzk6hJrrSBKNQ3FapOW8w1\u002BKeu9psK0sLSap2KpzEQEZu4czn3yeHYejeYA5csar22pWCk0UG\u002BY3p4EAGA9t/y34eR4bWOz/VGi\u002Byw9nJ\u002B6lJljJzyUCwFb1RYKVQ3Vesur6TtnR\u002BrMl3dwbPrwP01dvouV79/5F2vY8ciXuVgUAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-07-03T19:44:18.089Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
